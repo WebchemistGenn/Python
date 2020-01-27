@@ -8,5 +8,8 @@
   "scripts": {
     "serve": "gitbook serve docs",
     "docs": "gitbook build docs && gh-pages -d docs/_book"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
