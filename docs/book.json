@@ -1,0 +1,11 @@
+{
+  "plugins": ["ga", "-sharing"],
+  "pluginsConfig": {
+    "ga": {
+      "token": "UA-157020214-1"
+    }
+  },
+  "variables": {
+    "BASE_URL": "https://webchemistgenn.github.io/python/"
+  }
+}

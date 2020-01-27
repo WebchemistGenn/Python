@@ -1,0 +1,12 @@
+{
+  "name": "python",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "scripts": {
+    "serve": "gitbook serve docs",
+    "docs": "gitbook build docs && gh-pages -d docs/_book"
+  }
+}
